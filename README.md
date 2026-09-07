@@ -1,5 +1,5 @@
 # JarvisAI.py
-Guys this is Jarvis I maked it. You can open Facebook, Chatgpt, Youtube, Netfilx, Amazon  and some other websites.
+Guys this is Jarvis I maked it. You can open Facebook, Chatgpt, Youtube, Netfilx, Amazon  and some other websites and has some lots of features.
 
 Important Notes
 API Key Required: You must use your own API key and configure it correctly. The project will not work without a valid API key.
